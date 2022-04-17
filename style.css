@@ -241,7 +241,7 @@ section .title span::after{
 }
 section  .topic{
   color: #0E2431;
-  font-size: 32px;
+  font-size: 25px;
   font-weight: 500;
   margin-bottom: 10px;
 }
